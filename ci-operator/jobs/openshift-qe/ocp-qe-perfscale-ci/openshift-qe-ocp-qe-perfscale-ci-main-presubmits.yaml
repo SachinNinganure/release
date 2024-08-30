@@ -19946,7 +19946,6 @@ presubmits:
     labels:
       ci-operator.openshift.io/cloud: vsphere
       ci-operator.openshift.io/cloud-cluster-profile: vsphere-connected-2
-      ci-operator.openshift.io/cluster: build01
       ci-operator.openshift.io/variant: vsphere-4.16-nightly-x86
       ci.openshift.io/generator: prowgen
       job-release: "4.16"

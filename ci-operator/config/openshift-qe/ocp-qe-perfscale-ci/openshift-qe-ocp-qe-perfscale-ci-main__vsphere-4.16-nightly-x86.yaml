@@ -99,7 +99,6 @@ tests:
   timeout: 5h0m0s
 - always_run: false
   as: data-path-9nodes
-  cluster: build01
   steps:
     allow_skip_on_success: true
     cluster_profile: vsphere-connected-2
