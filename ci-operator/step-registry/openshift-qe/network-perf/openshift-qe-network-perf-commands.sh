@@ -60,4 +60,3 @@ if [ ${BAREMETAL} == "true" ]; then
   # kill the ssh tunnel so the job completes
   pkill ssh
 fi
-#minimal nutanix perf test
